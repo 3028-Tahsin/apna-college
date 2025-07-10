@@ -1,2 +1,2 @@
 # apna-college.
-author-shraddha khapra
+this is apna college.author-shraddha khapra
